@@ -1,0 +1,6 @@
+# Secrets — never commit these
+.env
+bot.log
+__pycache__/
+*.pyc
+.DS_Store
